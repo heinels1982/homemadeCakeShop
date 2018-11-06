@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ERDiagram" id="31261379-FF92-9E1F-C1B0-58728BF07FC7" version="3.5">
+<createdBy>leishen</createdBy>
+<createdTime>2018-05-11 14:14:45 UTC</createdTime>
+<ownerDesignName>ERDiagram</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>31261379-FF92-9E1F-C1B0-58728BF07FC7</designId>
+</OSDM_Design>
